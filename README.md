@@ -10,6 +10,9 @@ are returned to the calling client as facts.
 
 Option 1 - Install on local machine
 ------------------------
+
+Before start check if you already have maven installed.
+
 1. [Download and unzip.](https://github.com/jbossdemocentral/brms-weightwatcher-realtime-decision-server-demo/archive/master.zip)
 
 2. [Add products to installs directory.] (https://github.com/jbossdemocentral/brms-weightwatcher-realtime-decision-server-demo/blob/master/installs/)
