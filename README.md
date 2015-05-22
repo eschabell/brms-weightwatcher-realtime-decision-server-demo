@@ -12,7 +12,7 @@ Option 1 - Install on local machine
 ------------------------
 1. [Download and unzip.](https://github.com/jbossdemocentral/brms-weightwatcher-realtime-decision-server-demo/archive/master.zip)
 
-2. Add products to installs directory.
+2. [Add products to installs directory.] (https://github.com/jbossdemocentral/brms-weightwatcher-realtime-decision-server-demo/blob/master/installs/)
 
 3. Run 'init.sh' or 'init.bat' file. 'init.bat' must be run with Administrative privileges.
 
